@@ -1,5 +1,5 @@
 # Azure-Healthcare-end-to-end-project
-https://github.com/abhivicks22/Azure-Healthcare-end-to-end-project/blob/8d2592a13fd59fddfbf94eac3b63d76f37ac13d0/pipeline.jpg
+![image_alt](https://github.com/abhivicks22/Azure-Healthcare-end-to-end-project/blob/8d2592a13fd59fddfbf94eac3b63d76f37ac13d0/pipeline.jpg)
 
 Project Overview
 The project utilizes Azure cloud services to create a robust data pipeline that processes healthcare data through various stages:
